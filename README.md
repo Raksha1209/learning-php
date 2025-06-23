@@ -1,1 +1,1 @@
-Refered BroCode's one shot tutorial for PHP,Thanks!!
+Thanks to BroCode's one shot tutorial for PHP,!!
